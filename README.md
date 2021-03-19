@@ -5,7 +5,7 @@
 <a href="https://github.com/olgagabbert"><img height="20" src="https://camo.githubusercontent.com/b5f3da568197c022c0a032a93df03c10ff0c8abb/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f636f6c6f723d6f72616e6765266c6162656c3d666f6c6c6f77266c6f676f3d726564646974266c6f676f436f6c6f723d6f72616e6765267374796c653d666c61742d7371756172652675726c3d68747470732533412532462532467777772e7265646469742e636f6d25324675736572253246466174436869636b656e323737"></a>
 </p>
 
-I'm a __junior web developer__ based in Germany. I love teaching and learning all kinds of other things and I'm ready for discussions and making new projects. Ping me about intresting project ideas. 
+I'm an aspiring __web developer__ based in Germany. I love teaching and learning all kinds of things.  I spend my time on personal projects and learning more about HTML, CSS and JavaScript as well as Ruby on Rails. Ping me about interesting project ideas. 
 
 * 💼 Currently working at [SOS-Kinderdorf Berlin](https://www.sos-kinderdorf.de/familienzentrum-berlin?gclid=Cj0KCQjwrsGCBhD1ARIsALILBYqD8R4YDsPkJ06H58CUmpaVkw4ciJ-wd5fsdYPGFrWsHTvwXQON0msaArAdEALw_wcB) <br/>
 * 🔖 Discover my [CV](https://www.canva.com/design/DAEY6IJrN6E/BROXSSFYojBQErIH82M5mA/view?utm_content=DAEY6IJrN6E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br/>
