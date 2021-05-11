@@ -13,4 +13,3 @@ I'm an aspiring __web developer__ based in Germany. I love teaching and learning
 * 🧡 My hobbies are reading, going for a run, doing some yoga and spending quality time with my 🐶
 
 ## Hard skills
-<img align="center" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e66a2fc1-5f7e-4f36-a8b1-a3b73d4af8d5/Web_Dev_Icons.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210319%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210319T131004Z&X-Amz-Expires=86400&X-Amz-Signature=1a87ad36215f45d38542f493dc339f3c9b21465b30ca50d4438b43cd101a885b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Web_Dev_Icons.png%22">
