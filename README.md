@@ -10,6 +10,6 @@ I'm an aspiring __web developer__ based in Germany. I love teaching and learning
 * 💼 Currently working at [SOS-Kinderdorf Berlin](https://www.sos-kinderdorf.de/familienzentrum-berlin?gclid=Cj0KCQjwrsGCBhD1ARIsALILBYqD8R4YDsPkJ06H58CUmpaVkw4ciJ-wd5fsdYPGFrWsHTvwXQON0msaArAdEALw_wcB) <br/>
 * 🔖 Discover my [CV](https://www.canva.com/design/DAEY6IJrN6E/BROXSSFYojBQErIH82M5mA/view?utm_content=DAEY6IJrN6E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br/>
 * 📫 Contact me on [LindedIn](https://www.linkedin.com/in/olga-gabbert)
-* 🧡 My hobbies are reading, going for a run, doing some yoga and spending quality time with my 🐶
+* 🧡 My hobbies are reading, going for a run, doing some yoga and spending quality time with my family.
 
 ## Hard skills
