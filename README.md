@@ -12,4 +12,5 @@ I'm an aspiring __web developer__ based in Germany. I love teaching and learning
 * 📫 Contact me on [LindedIn](https://www.linkedin.com/in/olga-gabbert)
 * 🧡 My hobbies are reading, going for a run, doing some yoga and spending quality time with my family.
 
-## Hard skills
+<!-- ## Hard skills
+ -->
