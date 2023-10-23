@@ -7,7 +7,7 @@
 
 I'm an aspiring __web developer__ based in Germany. I love teaching and learning all kinds of things.  I spend my time on personal projects and learning more about HTML, CSS, and JavaScript. Ping me about exciting project ideas. 
 
-* 💼 Currently working at [Stiftung JOB]([https://www.stiftung-job.de]) <br/>
+* 💼 Currently working at [Stiftung JOB](https://www.stiftung-job.de) <br/>
 * 🔖 Discover my [CV](https://www.canva.com/design/DAEY6IJrN6E/XYXpIBXgRMbrhKChSfDccg/view?utm_content=DAEY6IJrN6E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)<br/>
 * 📫 Contact me on [LindedIn](https://www.linkedin.com/in/olga-gabbert)
 * 🧡 My hobbies are reading, going for a run, doing some yoga, and spending quality time with my family.
